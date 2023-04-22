@@ -1,0 +1,19 @@
+.buy12
+{
+    left: 200px;
+}
+.image-row{
+    display: flex;
+    justify-content: space-between;
+}
+.image-col
+{
+    flex-basis: 24%;
+    cursor: pointer;
+}
+
+.card
+{
+    padding: 20px;
+}
+

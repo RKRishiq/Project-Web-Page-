@@ -1,0 +1,70 @@
+
+.box
+{
+    position: absolute;
+    top: 35%;
+    left: 35%;
+    height: 200px;
+     width: 170px;
+    padding : 200px;
+    background:  rgba(255,255,255,.2);
+    box-shadow:0 5px 15px rgba(0,0,0,.5);    
+ 
+}
+
+#zx2 
+{
+    position:relative;
+    width: 300px;
+    right:150px;
+    bottom:100px;
+}
+
+#yz2
+{
+    position: relative;
+    width: 300px;
+    right: 150px;
+    bottom:100px;
+
+}
+
+.logofs
+{
+    position: absolute;
+    left:40%;
+    top:20%;
+
+}
+
+.signup
+{
+    position: absolute;
+    left:33%;
+    top:5%;
+
+}
+.home
+{
+  position :absolute;
+
+  
+}
+.blog
+{
+    position:absolute;
+    left: 80px
+}
+.aboutus
+{
+    position:absolute;
+    left:160px;
+}
+
+#loginpos
+
+{
+    position: relative;
+    right: 40px;
+    bottom: 45px;
+}
